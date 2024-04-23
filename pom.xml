@@ -145,14 +145,6 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
-                    <plugin>
-                  <groupId>org.apache.maven.plugins</groupId>
-                  <artifactId>maven-compiler-plugin</artifactId>
-                   <configuration>
-                   <forceJavacCompilerUse>true</forceJavacCompilerUse>
-                </configuration>
-               </plugin>
-			
 </plugins>
 	</build>
 	
